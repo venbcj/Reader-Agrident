@@ -1,0 +1,14 @@
+C:\Users\Bas van de Ven\Documents\GitHub\Reader-Agrident\Reader Agrident\TestReaderApp\bin\Debug\TestReaderApp.exe.config
+C:\Users\Bas van de Ven\Documents\GitHub\Reader-Agrident\Reader Agrident\TestReaderApp\bin\Debug\TestReaderApp.exe
+C:\Users\Bas van de Ven\Documents\GitHub\Reader-Agrident\Reader Agrident\TestReaderApp\bin\Debug\TestReaderApp.pdb
+C:\Users\Bas van de Ven\Documents\GitHub\Reader-Agrident\Reader Agrident\TestReaderApp\obj\Debug\TestReaderApp.csprojAssemblyReference.cache
+C:\Users\Bas van de Ven\Documents\GitHub\Reader-Agrident\Reader Agrident\TestReaderApp\obj\Debug\MainWindow.g.cs
+C:\Users\Bas van de Ven\Documents\GitHub\Reader-Agrident\Reader Agrident\TestReaderApp\obj\Debug\App.g.cs
+C:\Users\Bas van de Ven\Documents\GitHub\Reader-Agrident\Reader Agrident\TestReaderApp\obj\Debug\TestReaderApp_MarkupCompile.cache
+C:\Users\Bas van de Ven\Documents\GitHub\Reader-Agrident\Reader Agrident\TestReaderApp\obj\Debug\TestReaderApp_MarkupCompile.lref
+C:\Users\Bas van de Ven\Documents\GitHub\Reader-Agrident\Reader Agrident\TestReaderApp\obj\Debug\MainWindow.baml
+C:\Users\Bas van de Ven\Documents\GitHub\Reader-Agrident\Reader Agrident\TestReaderApp\obj\Debug\TestReaderApp.g.resources
+C:\Users\Bas van de Ven\Documents\GitHub\Reader-Agrident\Reader Agrident\TestReaderApp\obj\Debug\TestReaderApp.Properties.Resources.resources
+C:\Users\Bas van de Ven\Documents\GitHub\Reader-Agrident\Reader Agrident\TestReaderApp\obj\Debug\TestReaderApp.csproj.GenerateResource.cache
+C:\Users\Bas van de Ven\Documents\GitHub\Reader-Agrident\Reader Agrident\TestReaderApp\obj\Debug\TestReaderApp.exe
+C:\Users\Bas van de Ven\Documents\GitHub\Reader-Agrident\Reader Agrident\TestReaderApp\obj\Debug\TestReaderApp.pdb
