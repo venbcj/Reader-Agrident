@@ -12,3 +12,12 @@ C:\Users\Bas van de Ven\Documents\GitHub\Reader-Agrident\Reader Agrident\TestRea
 C:\Users\Bas van de Ven\Documents\GitHub\Reader-Agrident\Reader Agrident\TestReaderApp\obj\Debug\TestReaderApp.csproj.GenerateResource.cache
 C:\Users\Bas van de Ven\Documents\GitHub\Reader-Agrident\Reader Agrident\TestReaderApp\obj\Debug\TestReaderApp.exe
 C:\Users\Bas van de Ven\Documents\GitHub\Reader-Agrident\Reader Agrident\TestReaderApp\obj\Debug\TestReaderApp.pdb
+C:\Users\Bas van de Ven\Documents\GitHub\Reader-Agrident\Reader Agrident\TestReaderApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Bas van de Ven\Documents\GitHub\Reader-Agrident\Reader Agrident\TestReaderApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Bas van de Ven\Documents\GitHub\Reader-Agrident\Reader Agrident\TestReaderApp\obj\Debug\TestReaderApp.csproj.CopyComplete
+C:\Users\Bas van de Ven\Documents\GitHub\Reader-Agrident\Reader Agrident\TestReaderApp\bin\Debug\TestReaderApp.exe.manifest
+C:\Users\Bas van de Ven\Documents\GitHub\Reader-Agrident\Reader Agrident\TestReaderApp\bin\Debug\TestReaderApp.application
+C:\Users\Bas van de Ven\Documents\GitHub\Reader-Agrident\Reader Agrident\TestReaderApp\obj\Debug\TestReaderApp.exe.manifest
+C:\Users\Bas van de Ven\Documents\GitHub\Reader-Agrident\Reader Agrident\TestReaderApp\obj\Debug\TestReaderApp.application
+C:\Users\Bas van de Ven\Documents\GitHub\Reader-Agrident\Reader Agrident\TestReaderApp\obj\Debug\SettingsWindow.g.cs
+C:\Users\Bas van de Ven\Documents\GitHub\Reader-Agrident\Reader Agrident\TestReaderApp\obj\Debug\SettingsWindow.baml

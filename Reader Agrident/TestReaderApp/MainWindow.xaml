@@ -8,6 +8,11 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
 		<Button Click="Button_Click" Margin="40,299,589,64"></Button>
-		<TextBox x:Name="txtBox" Margin="352,43,0,0"></TextBox>
+        <TextBox x:Name="txtBox" Margin="352,43,0,0"></TextBox>
+        <Menu VerticalAlignment="Top">
+            <MenuItem Header="_File">
+            <MenuItem Header="_Settings" Click="MenuItem_Click"/>
+        </MenuItem>
+        </Menu>
     </Grid>
 </Window>
